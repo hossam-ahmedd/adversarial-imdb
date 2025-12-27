@@ -129,7 +129,7 @@ Defenses successfully mitigate the negative impact of adversarial attacks.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/hossam-ahmedd/Ai-sec-issues-project.git
+git clone https://github.com/hossam-ahmedd/adversarial-imdb.git
 ```
 2.Open the notebook:
 ```
